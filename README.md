@@ -2,6 +2,10 @@
 
 A sci-fi HUD style watch face for MoWatch e-ink smartwatch, featuring a customizable avatar display.
 
+<p align="center">
+  <img src="code/watch_photo.jpg" alt="Watch Photo" width="400">
+</p>
+
 ## Features
 
 - **Sci-Fi HUD Design**: Futuristic interface with panels, borders and indicators
