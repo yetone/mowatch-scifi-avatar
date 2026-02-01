@@ -1,0 +1,15 @@
+# Build artifacts
+gcc/objects/
+gcc/*.bin
+gcc/*.hex
+gcc/*.map
+gcc/*.dis
+gcc/*.elf
+gcc/*.mwa
+
+# Python cache
+__pycache__/
+*.pyc
+
+# macOS
+.DS_Store
