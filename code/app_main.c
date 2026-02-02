@@ -290,7 +290,7 @@ void onDraw(void)
     draw_system_status(158, 28);
 
     // 5. 中央大时间
-    draw_time(100, 106);
+    draw_time(100, 110);
 
     // 6. 底部左 - 日期
     draw_date(12, 156);
